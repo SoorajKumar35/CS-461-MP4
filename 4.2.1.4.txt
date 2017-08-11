@@ -1,0 +1,10 @@
+# example content
+# ftp
+# telnet
+# smtp
+# pop3
+ftp
+ftp-data
+https
+http
+ssh
